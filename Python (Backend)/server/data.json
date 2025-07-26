@@ -1,0 +1,13 @@
+# /server/data.json
+[
+  {
+    "id": "1",
+    "name": "Paris",
+    "status": "Wishlist"
+  },
+  {
+    "id": "2",
+    "name": "Tokyo",
+    "status": "Visited"
+  }
+]

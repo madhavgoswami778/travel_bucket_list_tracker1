@@ -1,0 +1,8 @@
+cd path/to/travel-tracker-app  # go to your project root
+
+git init                         # initialize local git
+git remote add origin https://github.com/USERNAME/travel-tracker-app.git
+git add .                        # add all files
+git commit -m "Initial commit: full React + Flask app"
+git branch -M main               # rename master to main
+git push -u origin main          # push to GitHub
